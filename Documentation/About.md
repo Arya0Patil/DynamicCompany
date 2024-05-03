@@ -14,6 +14,7 @@ This initiative is poised to deliver a significant contribution to the market by
 - Developing a responsive web application that offer a seamless user experience.
 - Creating a backend management system for service providers to efficiently handle bookings and customer feedback.
 - Incorporating features such as ratings, reviews, and service customization.
-- Developing a web app for providers to view and manage thrie booking.
+- Developing a web app for providers to view and manage service bookings.
 - Extensive admin dashboard for monitoring and maintainance and query resolution .
+- Development of query resolution system for customer and provider support.
   
